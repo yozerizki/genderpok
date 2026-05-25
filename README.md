@@ -1,3 +1,3 @@
-play it in browser 
+play it in your browser 
 
 https://yozerizki.itch.io/genderpok
